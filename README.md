@@ -1,5 +1,5 @@
 
-<img align="right" src="https://github.com/sudarshanjagtap7666/sudarshanjagtap7666/blob/master/developer1111.gif" alt="Coder GIF" width="420" height="330">
+<img align="right" src="https://github.com/sudarshanjagtap7666/sudarshanjagtap7666/blob/main/developer1111.gif" alt="Coder GIF" width="420" height="330">
 
 ## Hi there 👋,           
 I am Sudarshan Jagtap interested in working on Full stack based Tech stacks , research projects which involves creating Web Applications and Software systems which are capable of Improving user interface and Making Dynamic projects by, learning and also love to develop interesting Full stack apps using React.js , Node.js , MongoDb , Javascript etc. My current goal is to acquire skill-sets required for developement through self-study, Live projects and industry exposure, and subsequently pursue my interests, innovate with new ideas, develop intelligent solutions and contribute to the field of Full stack Development/open source. 
